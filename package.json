@@ -1,6 +1,6 @@
 {
   "name": "@vinerima/sign_bunny",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Provides a function to render a bunny holding a sign with your given text",
   "main": "bunny.ts",
   "repository": {
