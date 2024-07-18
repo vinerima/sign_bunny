@@ -3,7 +3,7 @@ Render an ascii bunny holding a sign
 
 ## Installation
 
-`npm install sign_bunny`
+`npm install @vinerima/sign_bunny`
 
 or
 
@@ -12,7 +12,7 @@ download `bunny.ts` and use it in your project
 ## Usage
 
 ```
-import {buildBunny} from 'sign_bunny';
+import {buildBunny} from '@vinerima/sign_bunny';
 
 const signText = "I'm holding a sign!";
 const bunny = buildBunny(signText);
