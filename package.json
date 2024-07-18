@@ -1,0 +1,24 @@
+{
+  "name": "sign_bunny",
+  "version": "1.0.0",
+  "description": "Provides a function to render a bunny holding a sign with your given text",
+  "main": "bunny.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vinerima/sign_bunny.git"
+  },
+  "keywords": [
+    "utility",
+    "random",
+    "ascii"
+  ],
+  "author": "Eric Vincent",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vinerima/sign_bunny/issues"
+  },
+  "homepage": "https://github.com/vinerima/sign_bunny#readme"
+}
